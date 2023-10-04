@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{0B972FAB-FEC6-42AD-9EFA-166C0333B872}|https">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RepoTestConsole FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.RepoTestApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
 </Properties>
